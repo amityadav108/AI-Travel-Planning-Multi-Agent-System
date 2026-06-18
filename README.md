@@ -2,7 +2,7 @@
 
 A production-ready **Multi-Agent AI Travel Planning System** built with **LangGraph, Groq Llama 3.3 70B, PostgreSQL Memory, Tavily Search, AviationStack API, and Streamlit**.
 
-The system simulates how multiple AI agents collaborate to automatically generate complete travel plans including flights, hotels, and itineraries.
+The system simulates how multiple AI agents collaborate to automatically generate complete travel plans, including flights, hotels, and itineraries.
 
 ---
 
